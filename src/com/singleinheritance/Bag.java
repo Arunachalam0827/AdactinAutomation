@@ -6,7 +6,7 @@ public class Bag extends box{
 
 	}
 	public void note() {
-		System.out.println("Rs.100");
+		System.out.println("Rs.5000");
 }
 	public static void main(String[] args) {
 		Bag bag=new Bag();
