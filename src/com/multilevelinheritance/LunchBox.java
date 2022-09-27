@@ -4,6 +4,7 @@ import com.singleinheritance.Bag;
 
 public class LunchBox extends Bag{
 private void Bottle() {
+	System.out.println("hari");
 	System.out.println("Rs.200");
 }
 private void foodBox() {
